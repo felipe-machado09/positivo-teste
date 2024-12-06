@@ -1,3 +1,26 @@
+## Sobre Mim
+
+### Felipe Machado Teotonio  
+**Senior PHP Developer | Laravel | Node | WordPress | React | Vue | Freelancer**  
+Com mais de 7 anos de experiência em desenvolvimento de software, sou especialista em PHP, Laravel e WordPress, com forte atuação em metodologias ágeis como SCRUM e Kanban. Tenho habilidades em desenvolvimento de plugins, sistemas escaláveis e SEO, além de proficiência em Docker, Git e bancos de dados como MySQL e PostgreSQL.  
+
+Para mais detalhes sobre minhas experiências e projetos, visite meu [LinkedIn](https://www.linkedin.com/in/felipe-machado-teotonio/).  
+
+---
+
+## Experiência Resumida
+
+- **Turno (2024 - Presente):** Full Stack Engineer trabalhando com Laravel e Vue.js em soluções escaláveis para milhões de usuários.  
+- **Fahrenheit Marketing (2023 - 2024):** Desenvolvimento de plugins e integrações customizadas em WordPress, Elementor e HubSpot.  
+- **Nubank (2021 - 2023):** Criação e personalização de temas e plugins WordPress, automação de processos internos e foco em SEO.  
+- **Ânima Educação (2021 - 2022):** Manutenção de sistemas legados e implementação de novas funcionalidades com PHP e Laravel.  
+- **Estadão (2019 - 2021):** Desenvolvimento de sistemas robustos e eficientes utilizando Laravel, JavaScript e metodologias ágeis.  
+
+---
+
+## Sobre o Projeto Técnico
+
+
 # Laravel Sail Project Starter Guide
 
 ## Requisitos
